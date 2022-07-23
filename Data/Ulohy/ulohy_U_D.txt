@@ -1,0 +1,5 @@
+Nájdi meč;Nájdi stratený meč svojich predkov;mec
+Nájdi kľúč;Nájdi kľúč k truhlici s *ehm* pokladom. Asi;kluc
+Vyplav sa na more;Zober loď a odplávaj čo najrýchlejšie z tohto zapadákova;lod
+Pohraj sa;Zabi šiestich otravných dezertérov;6;norm
+Zabi;Zabi hlavného bossa týchto otravných dezertérov. Budeš potrebovať sekeru;1;boss
