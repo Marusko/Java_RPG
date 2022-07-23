@@ -1,8 +1,12 @@
 # Java_RPG
 PROJECT TITLE: Unstable dungeon
+
 PURPOSE OF PROJECT: Semestrálna práca
+
 VERSION or DATE: r2022ver02.06
+
 AUTHORS: Matúš Suský
+
 USER INSTRUCTIONS:  Pohyb => šípkami na klávesnici
                     Interakcia s vecami vo svete => medzerníkom / enter
                     Hru vypneš => ESC
