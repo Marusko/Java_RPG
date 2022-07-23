@@ -1,3 +1,7 @@
+# Install/Inštalácia
+1.MS/unstableDungeon - Java codes/Java kódy
+
+2.Data - Must be in the project folder/Musí byť v projektovom priečinku
 # Java_RPG(svk)
 NÁZOV PROJEKTU:               
 
