@@ -1,45 +1,7 @@
 # Install/Inštalácia
 1.MS/unstableDungeon - Java codes/Java kódy
 
-2.Data - Must be in the project folder/Musí byť v projektovom priečinku
-# Java_RPG(svk)
-NÁZOV PROJEKTU:               
-
-    Unstable dungeon
-
-ÚČEL PROJEKTU: 
-
-    Semestrálna práca
-
-VERZIA: 
-
-    r2022ver02.06
-
-AUTORI: 
-
-    Matúš Suský
-
-POUŽÍVATEĽSKÉ INŠTRUKCIE:  
-                    
-    Pohyb => šípkami na klávesnici
-
-    Interakcia s vecami vo svete => medzerníkom / enter
-                    
-    Hru vypneš => ESC
-                    
-    Interakcia s NPC je automaticky
-                    
-    Zoznam úloh => Q -> !!!nezabudni kontrolovať
-                    
-    Prepínanie medzi možnosťami dialógového okna => tabulátor
-                    
-    Potvrdenie vybranej možnosti dialógového okna => medzerník
-                    
-    Nezabudni na meč
-                    
-    HLAVNE NÁJDI ÚLOHY -> Bude ich mať asi nejaký podivín v lese
-    
-    
+2.Data - Must be in the project folder/Musí byť v projektovom priečinku  
     
 # Java_RPG(eng)
 PROJECT NAME:               
@@ -78,3 +40,40 @@ USER INSTRUCTIONS:
                     
     MAINLY FIND THE QUESTS -> Some weirdo in the forest will probably have them
                    
+# Java_RPG(svk)
+NÁZOV PROJEKTU:               
+
+    Unstable dungeon
+
+ÚČEL PROJEKTU: 
+
+    Semestrálna práca
+
+VERZIA: 
+
+    r2022ver02.06
+
+AUTORI: 
+
+    Matúš Suský
+
+POUŽÍVATEĽSKÉ INŠTRUKCIE:  
+                    
+    Pohyb => šípkami na klávesnici
+
+    Interakcia s vecami vo svete => medzerníkom / enter
+                    
+    Hru vypneš => ESC
+                    
+    Interakcia s NPC je automaticky
+                    
+    Zoznam úloh => Q -> !!!nezabudni kontrolovať
+                    
+    Prepínanie medzi možnosťami dialógového okna => tabulátor
+                    
+    Potvrdenie vybranej možnosti dialógového okna => medzerník
+                    
+    Nezabudni na meč
+                    
+    HLAVNE NÁJDI ÚLOHY -> Bude ich mať asi nejaký podivín v lese
+    
