@@ -1,3 +1,5 @@
+# Attention for (eng)
+The game is in slovak language. If someone wants he can translate it into different languages
 # Install/Inštalácia
 1.MS/unstableDungeon - Java codes/Java kódy
 
